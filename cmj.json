@@ -1,0 +1,20 @@
+{
+  "apk": [
+    {
+      "apkName": "Netflix",
+      "packageName": "com.netflix.ninja",
+      "url": "https://github.com/wanniancaicai/TEST/blob/main/netflix_cai.apk"
+    },
+    {
+      "apkName": "CetusPlay",
+      "packageName": "com.cetusplay.remoteservice",
+      "url": "https://github.com/wanniancaicai/TEST/blob/main/CetusPlay.apk"
+    }
+
+    {
+      "apkName": "test",
+      "packageName": "com.cetusplay.remoteservice",
+      "url": "https://github.com/wanniancaicai/TEST/blob/main/CetusPlay.apk"
+    }
+  ]
+}
